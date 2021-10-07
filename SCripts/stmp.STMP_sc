@@ -1,1 +1,6 @@
 prt("hello")
+
+frxm tkinter imp *
+
+root = Tk()
+root.mainloop()
